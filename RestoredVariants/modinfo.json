@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "RestoredVarients",
+    "name": "Restored Varients",
+    "authors": [ "Nemesis688" ],
+    "description": "Adds Back Cut Varients of various items",
+    "category": "items",
+    "version": "02/14/2025",
+    "dependencies": [ "dda" ]
+  }
+]
